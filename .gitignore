@@ -1,0 +1,13 @@
+# Entorno virtual y dependencias
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Salidas y temporales
+*.log
+.DS_Store
+Thumbs.db
